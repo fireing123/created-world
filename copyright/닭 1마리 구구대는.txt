@@ -1,0 +1,18 @@
+path:resource\sound\chicken\idle\idle1.wav
+resource\sound\chicken\idle\idle2.wav
+resource\sound\chicken\idle\idle3.wav
+resource\sound\chicken\idle\idle4.wav
+resource\sound\chicken\idle\idle5.wav
+
+출처 링크 : https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13253124&menuNo=200020
+
+<img id="wrtImg" src="https://gongu.copyright.or.kr/gongu/wrt/cmmn/wrtFileImageView.do?wrtSn=13253124&filePath=L2Rpc2sxL25ld2RhdGEvMjAyMC8yMS9DTFMxMDAwMi8xMzI1MzEyNF9XUlRfMjAyMDAyMDhfMQ==&thumbAt=Y&thumbSe=b_tbumb&wrtTy=10002">
+<p style="font-size: 0.9rem;font-style: italic;">
+<span>
+title : <a href="https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13253124&menuNo=200020"> 닭 1마리 구구대는</a>
+authr : <a href="https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13253124&menuNo=200020"> 김용배</a>by
+site : <a href="https://gongu.copyright.or.kr/gongu/main/main.do">공유마당 저작권 위원회</a></span> <br>
+is licensed under
+<img src="https://gongu.copyright.or.kr/static/gongu/img/common/img_license21.png" alt="CC BY[저작자 표시]" class="img_cc">
+<span class="fc_orange">김용배 </span>의 "닭 1마리 구구대는" 은 <span class="fc_orange">CC BY</span>  라이선스로 제공됩니다.
+</p>

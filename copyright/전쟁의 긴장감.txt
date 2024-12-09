@@ -1,0 +1,7 @@
+✔ Music provided by 셀바이뮤직
+🎵 Title : 전쟁의 긴장감 by PDJ.Lee
+https://sellbuymusic.com/md/mejhxwt-ifkchfc
+https://www.youtube.com/channel/UCfhpJKP63oFY_XcV9TVgwiA
+
+path:resource\sound\bgm\startBoss.wav
+resource\sound\bgm\endBoss.wav

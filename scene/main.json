@@ -1,0 +1,1208 @@
+{
+    "setting": {
+        "tile": [["map", false, [
+            "./resource/tiles/cobbleStone.png",
+            "./resource/tiles/dirt.png",
+            "./resource/tiles/grass.png",
+            "./resource/tiles/stone.png",
+            "./resource/tiles/stone_bottomleft.png",
+            "./resource/tiles/decTiles/grass_dec.png",
+            "./resource/tiles/dirt_center.png",
+            "./resource/tiles/grass_center_right.png",
+            "./resource/tiles/grass_center.png",
+            "./resource/tiles/grass_center_all.png",
+            "./resource/tiles/deep_dirt.png",
+            "./resource/tiles/dirt_deep_craft.png",
+            "./resource/tiles/dirt_deep_pool.png",
+            "./resource/tiles/deep_dirt_topright.png",
+            "./resource/tiles/deep_dirt_bottomleft.png",
+            "./resource/tiles/stone_topleft.png",
+            "./resource/tiles/stone_bottomright.png",
+            "./resource/tiles/decTiles/rockBackground.png",
+            "./resource/tiles/decTiles/deep_dark_dirt.png",
+            "./resource/tiles/decTiles/stonedeppdirt.png",
+            "./resource/tiles/decTiles/backgroundbottom.png",
+            "./resource/tiles/grass_right.png",
+            "./resource/tiles/decTiles/backgroundup.png",
+            "./resource/tiles/decTiles/stonedirtcreate.png",
+            "./resource/tiles/grass_left.png",
+            "./resource/tiles/barrier.png"
+            ], 48],
+            ["animationmap", false, [
+            "./resource/tiles/animationTiles/water1.png",
+            "./resource/tiles/animationTiles/water2.png",
+            "./resource/tiles/animationTiles/water3.png",
+            "./resource/tiles/animationTiles/water4.png",
+            "./resource/tiles/animationTiles/pool_down.png",
+            "./resource/tiles/animationTiles/pool_down.png",
+            "./resource/tiles/animationTiles/pool_up.png",
+            "./resource/tiles/animationTiles/pool_up.png",
+            "./resource/tiles/deep_dirt.png",
+            "./resource/tiles/deep_dirt.png",
+            "./resource/tiles/deep_dirt.png",
+            "./resource/tiles/deep_dirt.png"
+            ], 48],
+            ["item", false, [
+            "./resource/inventoryItemIcons/bow.png",
+            "./resource/inventoryItemIcons/sword.png",
+            "./resource/inventoryItemIcons/pickaxe.png",
+            "./resource/inventoryItemIcons/axe.png",
+            "./resource/inventoryItemIcons/arrow.png",
+            "./resource/inventoryItemIcons/ironOre.png",
+            "./resource/inventoryItemIcons/ironIngot.png",
+            "./resource/inventoryItemIcons/treeBranch.png",
+            "./resource/inventoryItemIcons/feather.png",
+            "./resource/inventoryItemIcons/tendon.png",
+            "./resource/inventoryItemIcons/leather.png",
+            "./resource/inventoryItemIcons/coal.png",
+            "./resource/inventoryItemIcons/beef.png",
+            "./resource/inventoryItemIcons/cookedBeef.png",
+            "./resource/inventoryItemIcons/chicken.png",
+            "./resource/inventoryItemIcons/cookedChicken.png",
+            "./resource/inventoryItemIcons/zamOre.png",
+            "./resource/inventoryItemIcons/zam.png",
+            "./resource/inventoryItemIcons/wingwing.png",
+            "./resource/inventoryItemIcons/FeaterBundle.png",
+            "./resource/inventoryItemIcons/Realstone.png",
+            "./resource/inventoryItemIcons/ironPickaxe.png",
+            "./resource/inventoryItemIcons/boots.png",
+            "./resource/inventoryItemIcons/breastplate.png",
+            "./resource/inventoryItemIcons/zombieBeef.png",
+            "./resource/inventoryItemIcons/slimeOil.png",
+            "./resource/inventoryItemIcons/boneTank.png",
+            "./resource/inventoryItemIcons/GodCallor.png",
+            "./resource/inventoryItemIcons/WorldGetter.png"
+            ], 48],
+            ["mini_item", false, [
+                "./resource/inventoryItemIcons/wingwing.png",
+                "./resource/inventoryItemIcons/boots.png",
+                "./resource/inventoryItemIcons/breastplate.png"
+            ], 36],
+        ["pixelParticles", false, [
+            "./resource/particle/pixelParticle/grass.png",
+            "./resource/particle/pixelParticle/log.png",
+            "./resource/particle/pixelParticle/stone.png"
+        ], 6
+        ]],
+        "surface": [["playerWalk", true, [
+            "./resource/player/playerWorking/playerWorking_0000.png",
+            "./resource/player/playerWorking/playerWorking_0001.png",
+            "./resource/player/playerWorking/playerWorking_0002.png",
+            "./resource/player/playerWorking/playerWorking_0003.png",
+            "./resource/player/playerWorking/playerWorking_0004.png",
+            "./resource/player/playerWorking/playerWorking_0005.png",
+            "./resource/player/playerWorking/playerWorking_0006.png",
+            "./resource/player/playerWorking/playerWorking_0007.png",
+            "./resource/player/playerWorking/playerWorking_0008.png",
+            "./resource/player/playerWorking/playerWorking_0009.png",
+            "./resource/player/playerWorking/playerWorking_0010.png",
+            "./resource/player/playerWorking/playerWorking_0011.png",
+            "./resource/player/playerWorking/playerWorking_0012.png",
+            "./resource/player/playerWorking/playerWorking_0013.png"
+            ],    2
+        ], ["playerBowWalk", true, [
+            "./resource/player/playerArrowWorking/playerArrowWorking_0000.png",
+            "./resource/player/playerArrowWorking/playerArrowWorking_0001.png",
+            "./resource/player/playerArrowWorking/playerArrowWorking_0002.png",
+            "./resource/player/playerArrowWorking/playerArrowWorking_0003.png",
+            "./resource/player/playerArrowWorking/playerArrowWorking_0004.png",
+            "./resource/player/playerArrowWorking/playerArrowWorking_0005.png",
+            "./resource/player/playerArrowWorking/playerArrowWorking_0006.png",
+            "./resource/player/playerArrowWorking/playerArrowWorking_0007.png",
+            "./resource/player/playerArrowWorking/playerArrowWorking_0008.png",
+            "./resource/player/playerArrowWorking/playerArrowWorking_0009.png",
+            "./resource/player/playerArrowWorking/playerArrowWorking_0010.png",
+            "./resource/player/playerArrowWorking/playerArrowWorking_0011.png",
+            "./resource/player/playerArrowWorking/playerArrowWorking_0012.png",
+            "./resource/player/playerArrowWorking/playerArrowWorking_0013.png"
+            ],    2
+        ], ["playerRunning", true, [
+            "./resource/player/playerRunning/playerRunning_0000.png",
+            "./resource/player/playerRunning/playerRunning_0001.png",
+            "./resource/player/playerRunning/playerRunning_0002.png",
+            "./resource/player/playerRunning/playerRunning_0003.png",
+            "./resource/player/playerRunning/playerRunning_0004.png",
+            "./resource/player/playerRunning/playerRunning_0005.png",
+            "./resource/player/playerRunning/playerRunning_0006.png",
+            "./resource/player/playerRunning/playerRunning_0007.png",
+            "./resource/player/playerRunning/playerRunning_0008.png",
+            "./resource/player/playerRunning/playerRunning_0009.png",
+            "./resource/player/playerRunning/playerRunning_0010.png",
+            "./resource/player/playerRunning/playerRunning_0011.png"
+            ],    2
+        ],  ["playerIdle", true, [
+            "./resource/player/playerIdle/playerIdle_0001.png",
+            "./resource/player/playerIdle/playerIdle_0002.png"
+            ],    2
+        ], ["playerBowWalkIdle", true, [
+            "./resource/player/playerArrowWorking/playerArrowWorking_0000.png"
+            ],    2
+        ], ["playerJump", true, [
+            "./resource/player/playerJump/jump.png"
+            ], 2
+        ], ["playerBowJump", true, [
+            "./resource/player/playerBowJump/bowJump.png"
+            ], 2
+        ], ["playerPunch1", true, [
+            "./resource/player/punch/punch1.png"
+            ], 2
+        ], ["playerPunch2", true, [
+            "./resource/player/punch/punch2.png"
+            ], 2
+        ], ["playerSword1", true, [
+            "./resource/player/playerSword/1/playerSword1_1.png",
+            "./resource/player/playerSword/1/playerSword1_2.png",
+            "./resource/player/playerSword/1/playerSword1_3.png",
+            "./resource/player/playerSword/1/playerSword1_4.png",
+            "./resource/player/playerSword/1/playerSword1_5.png",
+            "./resource/player/playerSword/1/playerSword1_6.png",
+            "./resource/player/playerSword/1/playerSword1_7.png"
+            ], 2
+        ], ["playerSword2", true, [
+            "./resource/player/playerSword/2/playerSword2_1.png",
+            "./resource/player/playerSword/2/playerSword2_2.png",
+            "./resource/player/playerSword/2/playerSword2_3.png",
+            "./resource/player/playerSword/2/playerSword2_4.png",
+            "./resource/player/playerSword/2/playerSword2_5.png",
+            "./resource/player/playerSword/2/playerSword2_6.png",
+            "./resource/player/playerSword/2/playerSword2_7.png",
+            "./resource/player/playerSword/2/playerSword2_8.png"
+            ], 2
+        ], ["playerPickaxe", true, [
+            "./resource/player/playerPickaxe/playerPickaxe1.png",
+            "./resource/player/playerPickaxe/playerPickaxe2.png",
+            "./resource/player/playerPickaxe/playerPickaxe3.png",
+            "./resource/player/playerPickaxe/playerPickaxe4.png",
+            "./resource/player/playerPickaxe/playerPickaxe5.png",
+            "./resource/player/playerPickaxe/playerPickaxe6.png"
+            ], 2
+        ],  ["playerPickaxeIron", true, [
+            "./resource/player/playerIronPickaxe/playerPickaxeIron1.png",
+            "./resource/player/playerIronPickaxe/playerPickaxeIron2.png",
+            "./resource/player/playerIronPickaxe/playerPickaxeIron3.png",
+            "./resource/player/playerIronPickaxe/playerPickaxeIron4.png",
+            "./resource/player/playerIronPickaxe/playerPickaxeIron5.png",
+            "./resource/player/playerIronPickaxe/playerPickaxeIron6.png"
+            ], 2
+        ], ["playerAxe", true, [
+            "./resource/player/playerAxe/playerAxe_0000.png",
+            "./resource/player/playerAxe/playerAxe_0001.png",
+            "./resource/player/playerAxe/playerAxe_0002.png"
+            ], 2
+        ], ["playerAxeEnd", true, [
+            "./resource/player/playerAxe/playerAxe_0003.png",
+            "./resource/player/playerAxe/playerAxe_0004.png",
+            "./resource/player/playerAxe/playerAxe_0005.png",
+            "./resource/player/playerAxe/playerAxe_0006.png"
+            ], 2
+        ], ["playerBowIdle", false, [
+            "./resource/player/playerBow/bow1.png"
+            ], 2
+        ], ["playerWingReady", false, [
+            "./resource/player/PlayerWing/PlayerWing_0000.png",
+            "./resource/player/PlayerWing/PlayerWing_0001.png",
+            "./resource/player/PlayerWing/PlayerWing_0002.png",
+            "./resource/player/PlayerWing/PlayerWing_0003.png",
+            "./resource/player/PlayerWing/PlayerWing_0004.png",
+            "./resource/player/PlayerWing/PlayerWing_0005.png",
+            "./resource/player/PlayerWing/PlayerWing_0006.png"
+            ], 2
+        ], ["playerWingJump", false, [
+            "./resource/player/PlayerWing/PlayerWing_0007.png",
+            "./resource/player/PlayerWing/PlayerWing_0008.png",
+            "./resource/player/PlayerWing/PlayerWing_0009.png",
+            "./resource/player/PlayerWing/PlayerWing_0010.png",
+            "./resource/player/PlayerWing/PlayerWing_0011.png",
+            "./resource/player/PlayerWing/PlayerWing_0012.png",
+            "./resource/player/PlayerWing/PlayerWing_0013.png",
+            "./resource/player/PlayerWing/PlayerWing_0014.png",
+            "./resource/player/PlayerWing/PlayerWing_0015.png"
+            ], 2
+        ], ["playerBowCharge", false, [
+            "./resource/player/playerBow/bow1.png",
+            "./resource/player/playerBow/bow2.png",
+            "./resource/player/playerBow/bow3.png",
+            "./resource/player/playerBow/bow4.png"
+            ], 2
+        ], ["chickenIdle", true, [
+            "./resource/animal/chicken/chicken2.png"
+            ], 2 
+        ], ["chickenWalk", true, [
+            "./resource/animal/chicken/chicken1.png",
+            "./resource/animal/chicken/chicken2.png",
+            "./resource/animal/chicken/chicken3.png"
+            ], 2 
+        ], ["cowIdle", true, [
+            "resource/animal/cow/cow2.png"
+            ], 2
+        ], ["cowWalk", true, [
+            "resource/animal/cow/cow1.png",
+            "resource/animal/cow/cow2.png",
+            "resource/animal/cow/cow3.png"
+            ], 2
+        ], ["zombieWalk", true, [
+            "./resource/enemy/zombie/zombie/zombie_0000.png",
+            "./resource/enemy/zombie/zombie/zombie_0001.png",
+            "./resource/enemy/zombie/zombie/zombie_0002.png",
+            "./resource/enemy/zombie/zombie/zombie_0003.png",
+            "./resource/enemy/zombie/zombie/zombie_0004.png",
+            "./resource/enemy/zombie/zombie/zombie_0005.png",
+            "./resource/enemy/zombie/zombie/zombie_0006.png",
+            "./resource/enemy/zombie/zombie/zombie_0007.png",
+            "./resource/enemy/zombie/zombie/zombie_0008.png",
+            "./resource/enemy/zombie/zombie/zombie_0009.png",
+            "./resource/enemy/zombie/zombie/zombie_0010.png",
+            "./resource/enemy/zombie/zombie/zombie_0011.png",
+            "./resource/enemy/zombie/zombie/zombie_0012.png",
+            "./resource/enemy/zombie/zombie/zombie_0013.png"
+        ], 2
+        ], ["zombieIdle", true, [
+            "./resource/enemy/zombie/zombie/zombie_0000.png"
+        ], 2
+        ], ["zombiePunch", true, [
+            "./resource/enemy/zombie/zombiePunch/zombiePunch_0002.png",
+            "./resource/enemy/zombie/zombiePunch/zombiePunch_0003.png",
+            "./resource/enemy/zombie/zombiePunch/zombiePunch_0006.png",
+            "./resource/enemy/zombie/zombiePunch/zombiePunch_0011.png"
+        ], 2
+        ], ["slimeWalk", true, [
+            "./resource/enemy/slime/slime1.png",
+            "./resource/enemy/slime/slime2.png"
+        ], 2
+        ], ["slimeIdle", true, [
+            "./resource/enemy/slime/slimeidle.png"
+        ], 2
+        ], ["boneWalk", true, [
+            "./resource/enemy/bone/bones/bones_0000.png",
+            "./resource/enemy/bone/bones/bones_0001.png",
+            "./resource/enemy/bone/bones/bones_0002.png",
+            "./resource/enemy/bone/bones/bones_0003.png",
+            "./resource/enemy/bone/bones/bones_0004.png",
+            "./resource/enemy/bone/bones/bones_0005.png",
+            "./resource/enemy/bone/bones/bones_0006.png",
+            "./resource/enemy/bone/bones/bones_0007.png",
+            "./resource/enemy/bone/bones/bones_0008.png",
+            "./resource/enemy/bone/bones/bones_0009.png",
+            "./resource/enemy/bone/bones/bones_0010.png",
+            "./resource/enemy/bone/bones/bones_0011.png"
+        ], 2
+        ], ["boneBowIdle", false, [
+            "./resource/enemy/bone/bow/boneBow1.png"
+        ], 2
+        ], ["boneBowCharge", false, [
+            "./resource/enemy/bone/bow/boneBow1.png",
+            "./resource/enemy/bone/bow/boneBow2.png",
+            "./resource/enemy/bone/bow/boneBow3.png",
+            "./resource/enemy/bone/bow/boneBow4.png"
+        ], 2
+        ], ["boneIdle", true, [
+            "./resource/enemy/bone/bones/bones_0000.png"
+        ], 2
+        ], ["touch", false, [
+            "./resource/objects/touch/touch1.png",
+            "./resource/objects/touch/touch2.png",
+            "./resource/objects/touch/touch3.png"
+        ], 2
+        ], ["cloud", false, [
+            "./resource/cloud/cloud1.png",
+            "./resource/cloud/cloud2.png",
+            "./resource/cloud/cloud3.png"
+        ], 5
+        ], ["boss", true, [
+            "./resource/boss/real/body.png"
+        ], 2
+        ], ["fboss", true, [
+            "./resource/boss/fake/body.png"
+        ], 16.6
+        ], ["fakeEyes", false, [
+            "./resource/boss/fake/head1.png",
+            "./resource/boss/fake/head2.png",
+            "./resource/boss/fake/head3.png",
+            "./resource/boss/fake/head4.png",
+            "./resource/boss/fake/head5.png"
+        ], 16.6
+        ], ["furnace", false, [
+            "./resource/objects/furnace/furnace.png"
+        ], 3
+        ], ["furnaceFire", false, [
+            "./resource/objects/furnace/furnace1.png",
+            "./resource/objects/furnace/furnace2.png",
+            "./resource/objects/furnace/furnace3.png"
+        ], 3
+        ], ["wingParticle", false, [
+            "./resource/particle/wingParticle/wingParticle1.png",
+            "./resource/particle/wingParticle/wingParticle2.png",
+            "./resource/particle/wingParticle/wingParticle3.png",
+            "./resource/particle/wingParticle/wingParticle4.png",
+            "./resource/particle/wingParticle/wingParticle5.png",
+            "./resource/particle/wingParticle/wingParticle6.png"
+        ], 4
+        ], ["leafParticle", false, [
+            "./resource/particle/leafParticle/leafParticle_0000.png",
+            "./resource/particle/leafParticle/leafParticle_0001.png",
+            "./resource/particle/leafParticle/leafParticle_0002.png",
+            "./resource/particle/leafParticle/leafParticle_0003.png",
+            "./resource/particle/leafParticle/leafParticle_0004.png",
+            "./resource/particle/leafParticle/leafParticle_0005.png"
+        ], 2
+        ], ["arrrow", false, [
+            "./resource/arrow/arrow.png"
+        ], 2
+        ]]
+    },
+    "objs": {
+        "FollowCamera": [{
+            "name": "main_cam",
+            "tag": "camera",
+            "visible": true,
+            "position": [1000, 100],
+            "rotation": 0,
+            "parent_name": "parent",
+            "maps":[
+                ["ground", [   -48, 150], [3200, 800]],
+                ["cave", [-2895, -440], [2470, 1680]],
+                ["error", [-1200, 1200],  [1200, 1200]],
+                ["timer", [-2650, 800], [1600, 800]],
+                ["jump", [600, 1225], [2450, 800]],
+                ["boss", [2400, 1225], [1200, 800]],
+                ["big_cave", [2000, -48], [1200, 800]]
+            ],
+            "speed":    3
+        }],
+        "TileMap" : [{
+            "name": "map_dec",
+            "layer": 2,
+            "tag": "map",
+            "visible": true,
+            "position": [0, 0],
+            "rotation": 0,
+            "parent_name": "parent",
+            "tiles": [
+                [
+                    [   5,   5,   5,   5,null,null,null,null,null,null,   5,   5,   5,   5,   5,   5,null,null,null,null,   5,   5,null,null,null,null,null,null,null,  18,  18,  18,  18,  18,  18,  18,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  18,  18,  18,  18,  18,  18,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]
+                ],
+                [
+                    [null,   5,   5,   5,   5,   5,   5,null,null,null,null,   5,   5,   5,   5,   5,   5,null,null,null,null,null,null,  20,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,  17,  17,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null,null,null,  17,  17,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null,null,null,null,  17,  17,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  22,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null,null,null,null,  17,  17,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,null,null,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   5,   5,   5,   5,   5,   5,   5,   5,   5,   5,   5,   5,null,null,null,null,null,null,   5,   5,   5,   5,   5,   5]
+                ],
+                [
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,null,  17,  17,null,null,null,null,  17,  17,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,  17,  17,  17,  17,  17,  17,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,null,  17,  17,  17,  17,  17,  17,  17,  17,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,  17,null,null,  17,  17,  17,  17,  17,  17,  17,  17,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,  17,  17,  17,  17,null,null,  17,  17,  17,  17,  17,  17,  17,null,null,null,null,  17,  17,  17,null,  17,  17,  17,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  17,  17,  17,null,null,null,null,null,  17,  17,null,  17,  17,null,null,null,null,null,null,null,null,null,null,  17,null,null,null,null,null]
+                ],
+                [
+                    
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  18,  18,  18,  18,  18,  18,  18,  18,  18,  18,  18,  18,  18],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  18,  18,  18,  18,  18,  18,  18,  18,  18,  18,  18,  18],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  18,  18,  18,  18,  18,  18,  18,  18,  18,  18,  18],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  18,  18,  18,  18,  18,  18,  18,  18,  18,  18],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  18,  18,  18,  18,  18,  18,  18,  18,  18],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]
+                ]
+            ],
+            "sheet_name": "map"
+        }],
+        "DecImage": [{
+            "name": "spickaxe",
+            "layer": 3,
+            "tag": "dec",
+            "visible": true,
+            "position": [-2150, 216],
+            "rotation": 0,
+            "parent_name": "parent",
+            "path": "./resource/objects/dec_pickaxe.png",
+            "size": [3, 3]
+        }],
+        "Signs": [{
+            "name": "first_signs",
+            "layer": 3,
+            "tag": "signs",
+            "visible": true,
+            "position": [-100, 24],
+            "rotation": 0,
+            "parent_name": "parent"
+        },
+        {
+            "name": "cave_signs",
+            "layer": 3,
+            "tag": "signs",
+            "visible": true,
+            "position": [-1800, -120],
+            "rotation": 0,
+            "parent_name": "parent"
+        },
+        {
+            "name": "water_signs",
+            "layer": 3,
+            "tag": "signs",
+            "visible": true,
+            "position": [1000, 72],
+            "rotation": 0,
+            "parent_name": "parent"
+        },
+        {
+            "name": "crafter_signs",
+            "layer": 3,
+            "tag": "signs",
+            "visible": true,
+            "position": [-1600, -24],
+            "rotation": 0,
+            "parent_name": "parent"
+        },
+        {
+            "name": "mountain_signs",
+            "layer": 3,
+            "tag": "signs",
+            "visible": true,
+            "position": [-1700,690],
+            "rotation": 0,
+            "parent_name": "parent"
+        },
+        {
+            "name": "racipe_cave_signs",
+            "layer": 3,
+            "tag": "signs",
+            "visible": true,
+            "position": [-2100, -120],
+            "rotation": 0,
+            "parent_name": "parent"
+        },
+        {
+            "name": "racipe_bow_signs",
+            "layer": 3,
+            "tag": "signs",
+            "visible": true,
+            "position": [900, 24],
+            "rotation": 0,
+            "parent_name": "parent"
+        },
+        {
+            "name": "racipe_fly_signs",
+            "layer": 3,
+            "tag": "signs",
+            "visible": true,
+            "position": [-900, 24],
+            "rotation": 0,
+            "parent_name": "parent"
+        },
+        {
+            "name": "racipe_pickaxe_signs",
+            "layer": 3,
+            "tag": "signs",
+            "visible": true,
+            "position": [200,24],
+            "rotation": 0,
+            "parent_name": "parent"
+        },
+        {
+            "name": "world_end_signs",
+            "layer": 3,
+            "tag": "signs",
+            "visible": true,
+            "position": [-3100, 690],
+            "rotation": 0,
+            "parent_name": "parent"
+        },
+        {
+            "name": "jump_map_signs",
+            "layer": 3,
+            "tag": "signs",
+            "visible": true,
+            "position": [-550, 1124],
+            "rotation": 0,
+            "parent_name": "parent"
+        },
+        {
+            "name": "god_signs",
+            "layer": 3,
+            "tag": "signs",
+            "visible": true,
+            "position": [1700, 980],
+            "rotation": 0,
+            "parent_name": "parent"
+        },
+        {
+            "name": "world_is_boss_signs",
+            "layer": 3,
+            "tag": "signs",
+            "visible": true,
+            "position": [-2600, 690],
+            "rotation": 0,
+            "parent_name": "parent"
+        },
+        {
+            "name": "cave_signs_al_signs",
+            "layer": 3,
+            "tag": "signs",
+            "visible": true,
+            "position": [-2250, 216],
+            "rotation": 0,
+            "parent_name": "parent"
+        },
+        {
+            "name": "cave_signs_gone_pick_signs",
+            "layer": 3,
+            "tag": "signs",
+            "visible": true,
+            "position": [-1850, 216],
+            "rotation": 0,
+            "parent_name": "parent"
+        },
+        {
+            "name": "cave_signs_monster_signs",
+            "layer": 3,
+            "tag": "signs",
+            "visible": true,
+            "position": [-3500, -264],
+            "rotation": 0,
+            "parent_name": "parent"
+        }],
+        "CraftTableObject": [{
+            "name": "craftTableObject",
+            "layer":    3,
+            "tag": "table",
+            "visible": true,
+            "position": [-1500, 0],
+            "rotation":    0,
+            "parent_name": "parent"
+        }],
+        "FurnaceObject": [{
+            "name": "furnaceObject",
+            "layer":    3,
+            "tag": "table",
+            "visible": true,
+            "position": [-1300, 0],
+            "rotation":    0,
+            "parent_name": "parent"
+        }],
+        "StoneGroup": [{
+            "name": "grass_stone",
+            "layer": 3,
+            "tag": "stone",
+            "visible": true,
+            "position": [400, 24],
+            "rotation": 0,
+            "parent_name": "parent",
+            "random_list": [
+                [null,   20],
+                [0.60, 0.40]
+            ],
+            "allow_attackers": [null, 2, 21]
+        },
+        {
+            "name": "stone",
+            "layer": 3,
+            "tag": "steel",
+            "visible": true,
+            "position": [-2000, -120],
+            "rotation": 0,
+            "parent_name": "parent",
+            "random_list": [
+                [null,    5,   16,   11,   20],
+                [0.50, 0.07, 0.03, 0.15, 0.25]
+            ],
+            "allow_attackers": [2, 21]
+        },
+        {
+            "name": "water_stone",
+            "layer": 3,
+            "tag": "steel",
+            "visible": true,
+            "position": [2000, -220],
+            "rotation": 0,
+            "parent_name": "parent",
+            "random_list": [
+                [null,    5,   11,   20],
+                [0.50, 0.10, 0.15, 0.25]
+            ],
+            "allow_attackers": [2, 21]
+        },
+        {
+            "name": "ingot",
+            "layer": 3,
+            "tag": "steel",
+            "visible": true,
+            "position": [-2900, -600],
+            "rotation": 0,
+            "parent_name": "parent",
+            "random_list": [
+                [null,    5,   20],
+                [0.60, 0.30, 0.10]
+            ],
+            "allow_attackers": [21]
+        },
+        {
+            "name": "coal",
+            "layer": 3,
+            "tag": "stone",
+            "visible": true,
+            "position": [-2850, -120],
+            "rotation": 0,
+            "parent_name": "parent",
+            "random_list": [
+                [null,   11,   20],
+                [0.60, 0.30, 0.10]
+            ],
+            "allow_attackers": [2, 21]
+        },
+        {
+            "name": "magic",
+            "layer": 3,
+            "tag": "steel",
+            "visible": true,
+            "position": [-2750, -1128],
+            "rotation": 0,
+            "parent_name": "parent",
+            "random_list": [
+                [null,    5,   16,   11,   20],
+                [0.50, 0.5, 0.20, 0.5, 0.10]
+            ],
+            "allow_attackers": [2, 21]
+        }],
+        "Tree": [{
+            "name": "tree1",
+            "layer": 2,
+            "tag": "tree",
+            "visible": true,
+            "position": [500, 144],
+            "rotation": 0,
+            "parent_name": "parent"
+        },
+        {
+            "name": "tree2",
+            "layer": 2,
+            "tag": "tree",
+            "visible": true,
+            "position": [800, 144],
+            "rotation": 0,
+            "parent_name": "parent"
+        },
+        {
+            "name": "tree3",
+            "layer": 2,
+            "tag": "tree",
+            "visible": true,
+            "position": [-300, 144],
+            "rotation": 0,
+            "parent_name": "parent"
+        }],
+        "CobbleWall": [{
+            "name": "Wall1",
+            "layer": 3,
+            "tag": "stone",
+            "visible": true,
+            "position": [1380, 48],
+            "rotation": 0,
+            "parent_name": "parent",
+            "types": [2, 21]
+        },
+        {
+            "name": "Wall2",
+            "layer": 3,
+            "tag": "ste",
+            "visible": true,
+            "position": [-1658, 0],
+            "rotation": 0,
+            "parent_name": "parent",
+            "types": [21]
+            
+        }],
+        "Creater": [{
+            "name": "Pcreater",
+            "layer": 3,
+            "tag": "creater",
+            "visible": true,
+            "position": [0, 32],
+            "rotation": 0,
+            "parent_name": "parent"
+        }],
+        "CaveCreator": [{
+            "name": "cave_monster1",
+            "layer": 2,
+            "tag": "creater",
+            "visible": true,
+            "position": [-2750, -1128],
+            "rotation": 0,
+            "parent_name": "parent",
+            "rect": [602, 302],
+            "monster_type": "zombie",
+            "monster_count": 2
+        },
+        {
+            "name": "cave_monster2",
+            "layer": 2,
+            "tag": "creater",
+            "visible": true,
+            "position": [-2900, -600],
+            "rotation": 0,
+            "parent_name": "parent",
+            "rect": [602, 302],
+            "monster_type": "slime",
+            "monster_count": 2
+        },
+        {
+            "name": "cave_monster3",
+            "layer": 2,
+            "tag": "creater",
+            "visible": true,
+            "position": [-3600, -600],
+            "rotation": 0,
+            "parent_name": "parent",
+            "rect": [602, 302],
+            "monster_type": "bone",
+            "monster_count": 2
+        }],
+        "RealBoss": [{
+            "name": "realboss",
+            "layer": 2,
+            "tag": "boss",
+            "visible": false,
+            "position": [0, 10300],
+            "rotation": 0,
+            "parent_name": "parent"
+        }],
+        "FakeRealBoss": [{
+            "name": "fakeboss",
+            "layer": 2,
+            "tag": "boss",
+            "visible": false,
+            "position": [0, 10300],
+            "rotation": 0,
+            "parent_name": "parent"
+        }],
+        "BossCaller": [{
+            "name": "altar",
+            "layer": 3,
+            "tag": "altar",
+            "visible": true,
+            "position": [2400, 980],
+            "rotation": 0,
+            "parent_name": "parent"
+        }],
+        "Wing": [{
+            "name": "playerWing",
+            "layer": 3,
+            "tag": "free",
+            "visible": false,
+            "position": [0, 0],
+            "rotation": 0,
+            "parent_name": "player"
+        }],
+        "Player": [{
+            "name": "player",
+            "layer":    3,
+            "tag": "zooinball",
+            "visible": true,
+            "position": [1000, 100],
+            "rotation":    0,
+            "parent_name": "parent"
+        }],
+        "Sky": [{
+            "pos":1
+        }],
+        
+        "CollisionTile" : [{
+            "name": "map_renderer",
+            "layer": 3,
+            "tag": "map",
+            "visible": true,
+            "position": [0, 0],
+            "rotation": 0,
+            "parent_name": "parent",
+            "tiles": [
+                [
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  24,   2,  21,null,null,null,null,null,null,null,null,null,null,null,null,  14,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  14,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   9,null,null,null,   0,   0,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  24,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,  11],
+                    [null,null,   9,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  11],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  11],
+                    [null,null,null,null,null,null,null,   9,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  11],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  11],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  11],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  11],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  11],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  11],
+                    [null,null,null,null,null,null,null,null,null,null,null,   9,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  11],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  11],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  11],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  11, null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]
+
+                ],
+                [
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  21,   2,  24,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  16,   3,null,null,   3,   3,   3,   3,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  16,   3,   3,   3,   3,   3,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3,   3,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3,   3,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  16,   3,   3,   4,null,null,null,null,null,null,  16,   3,   3,   3,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  21,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  21,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  21,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  21,   3,   3,   3,   3,   3,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,  24,null,null,null,  25],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  21,   2,   2,   2,  24,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  25],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  25],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   9,null,null,null,null,   9,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  25],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,   6,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  25],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,   1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  25],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,   1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  25],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,   1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  25],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,   1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  25],
+                    [null,null,   9,null,null,null,null,null,null,null,   7,   2,   2,  24,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  25],
+                    [null,null,null,null,null,null,null,   6,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  25],
+                    [null,null,null,null,null,null,null,   1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  25],
+                    [null,null,null,null,null,null,null,   1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  25],
+                    [null,null,null,null,null,null,null,   1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  25],
+                    [null,null,null,null,null,null,null,   1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  25],
+                    [null,null,null,null,null,null,null,   1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  25],
+                    [null,null,null,null,null,null,null,   1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  25],
+                    [null,null,null,null,null,null,null,   1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  25],
+                    [null,null,null,null,null,null,null,   1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  25],
+                    [null,null,null,null,null,null,null,   8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  25]
+
+                ],
+                [
+                    [   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   1,   1,   1,  24,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3],
+                    [  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  23,   3,   3,   3,   3,   3,   3,   3,   3,   3,  15,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,  15,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,   3,null,null,   3,   3,   3,   3,null,null,   3,   3,   3,   3,   3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,  25,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3,null,null,null,null,null,null,null,null,   3,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,null,null,null,null,null,null,   3,   3,   3,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,null,null,null,null,   3,null,null,null,null,null,null,null,null,   3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,null,null,null,   3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,null,   3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   3,   3,null,null,null,null,null,null,null,null,   3,   3,   3,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,null,null,null,null,   3,   3,null,null,null,null,null,null,null,   3,   3,   3,   3,null,null,null,   3,null,null,null,   3,   3,   3,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,null,null,   3,   3,   3,   3,   3,null,null,   3,null,null,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,null,   3,   3,   3,   3,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  19,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3,   3],
+                    [null]
+                ],
+                [
+                    [   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   2,   1,   1,  12,null,null,null,null,null,   0,  10,  10,  13,null,null,null,null,null,null,null,null,null,null,null,null,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  11,  12,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  13,null,null,null,null,null,null,null,null,null,null,null,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  13,null,null,null,null,null,null,null,null,null,null,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  13,null,null,null,null,null,null,null,null,null,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  13,null,null,null,null,null,null,null,null,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10],
+                    [  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10]
+                ]
+            ],
+            "sheet_name": "map"
+        }],
+        "AnimationTileMap": [{
+            "name": "animap",
+            "layer":    4,
+            "tag": "teg",
+            "visible": true,
+            "position": [0, 0],
+            "rotation": 0,
+            "parent_name": "parent",
+            "tiles":[
+                [
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   0,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   0,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   0,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   0,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   0,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   0,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   0,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   0,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   0,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   0,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   0,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   0,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   0,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   0,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   0,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   0,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   0,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   0,null,null,null,null,null,null,null,null,null,null,null]
+                ],
+                [
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]
+                ],
+                [
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]
+                ],
+                [
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   4,   4,   4,   4,   4,null,null,null,null,null,null,null,null,null,null,null,null],
+                    [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,   8,   8,   8,   8,   8,null,null,null,null,null,null,null,null,null,null,null,null]
+                ]
+            ],
+            "sheet_name": "animationmap"
+        }],
+        "WaterFall": [{
+            "name": "water_fall",
+            "layer": 4,
+            "tag": "particle",
+            "visible": true,
+            "position": [1350, 0],
+            "rotation": 0,
+            "parent_name": "parent"
+        }],
+        "Night": [{
+            "visible": true
+        }],
+        "ItemCursor": [{
+            "name": "ItemCursor",
+            "layer": 6,
+            "tag": "cursor",
+            "visible": true,
+            "position": [0, 0],
+            "rotation": 0,
+            "parent_name": "InventoryPanel"
+        }],
+        "HotBar": [{
+            "name": "hotbar",
+            "layer": 5,
+            "tag": "hotbar",
+            "visible": true,
+            "position": [24, -350],
+            "rotation": 0,
+            "parent_name": "parent"
+        }],
+        "HeathBar": [{
+            "name": "heathBar",
+            "layer": 5,
+            "tag": "bar",
+            "visible": true,
+            "position": [8, -290],
+            "rotation": 0,
+            "parent_name": "parent"
+        }],
+        "PlayerArmorState": [{
+            "name": "armors",
+            "layer": 5,
+            "tag": "state",
+            "visible": true,
+            "position": [-130, 30],
+            "rotation": 0,
+            "parent_name": "heathBar"
+        }],
+        "PlayerBootsState": [{
+            "name": "bootss",
+            "layer": 5,
+            "tag": "state",
+            "visible": true,
+            "position": [-90, 30],
+            "rotation": 0,
+            "parent_name": "heathBar"
+        }],
+        "Panel": [{
+            "name": "InventoryPanel",
+            "tag": "panel",
+            "visible": false,
+            "parent_name": "parent"
+        },
+        {
+            "name": "pause_panel",
+            "tag": "panel",
+            "visible": false,
+            "parent_name": "parent"
+        }],
+        "PauseUI": [{
+            "name": "paus",
+            "layer": 6,
+            "tag": "ui",
+            "visible": true,
+            "position": [0, 0],
+            "rotation": 0,
+            "parent_name": "pause_panel"
+        }],
+        "CraftTable": [{
+            "name": "craftTable",
+            "tag": "table",
+            "visible": false,
+            "position": [-250,    0],
+            "rotation":    0,
+            "parent_name": "InventoryPanel"
+        }],
+        "CraftHint": [{
+            "name": "hintor",
+            "layer": 6,
+            "tag": "table",
+            "visible": true,
+            "position": [0, -100],
+            "rotation": 0,
+            "parent_name": "craftTable"
+        }],
+        "Furnace": [{
+            "name": "furnace",
+            "tag": "furnace",
+            "visible": false,
+            "position": [-250, 0],
+            "rotation": 0,
+            "parent_name": "InventoryPanel"
+        }],
+        "AltarUI": [{
+            "name": "altar_ui",
+            "layer": 6,
+            "tag": "altar",
+            "visible": false,
+            "position": [-250, 0],
+            "rotation": 0,
+            "parent_name": "InventoryPanel"
+        }],
+        "InventoryWindow": [{
+            "name": "inventory",
+            "position": [200,    0],
+            "parent_name": "InventoryPanel",
+            "data": [
+                [[18, 1],     null,     null,     null,     null,     null],
+                [[22, 1],     null,     null,     null,     null,     null],
+                [[27, 1],[21, 1],     null,     null,     null,     null],
+                [[28, 30],[3, 1],     null,     null,     null,     null],
+                [[1, 1],[2, 1],     null,     null,     null,     null],
+                [[0, 1],[4, 32],     null,     null,     null,     null]
+            ]
+        }],
+        "RacipeUI": [{
+            "name": "alram",
+            "layer": 4,
+            "tag": "ui",
+            "visible": true,
+            "position": [505, -500],
+            "rotation": 0,
+            "parent_name": "parent"
+        }],
+        "CursorItemUI": [{
+            "name": "cursorItem",
+            "position": [0, 0],
+            "parent_name": "ItemCursor",
+            "item_index": null,
+            "count": 0
+        }],
+        "ItemDescription": [{
+            "name": "description",
+            "layer": 8,
+            "tag": "description",
+            "visible": false,
+            "position": [0, 0],
+            "rotation": 0,
+            "parent_name":"ItemCursor"
+        }],
+        "SignsUI": [{
+            "name": "sig",
+            "layer": 6,
+            "tag": "sign",
+            "visible": false,
+            "position": [0, -240],
+            "rotation": 0,
+            "parent_name": "parent"
+        }],
+        "PanelC": [{
+            "name": "d",
+            "tag": "d",
+            "visible": false,
+            "parent_name": "parent"
+        }],
+        "WorldVoice": [{
+            "name": "world_1",
+            "layer": 8,
+            "tag": "world_creep",
+            "visible": false,
+            "position": [0, 0],
+            "rotation": 0,
+            "parent_name": "parent"
+        }],
+        "KorWarning":[{
+            "name": "warning",
+            "layer": 8,
+            "tag": "high_world",
+            "visible": true,
+            "position": [450, 350],
+            "rotation": 0,
+            "parent_name": "parent"
+        }]
+    }
+}

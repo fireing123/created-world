@@ -1,0 +1,107 @@
+{
+    "setting": {
+        "tile": [
+            ["map", false, [
+            "./resource/tiles/dirt.png",
+            "./resource/tiles/grass.png",
+            "./resource/tiles/decTiles/grass_dec.png"
+            ], 48]
+        ],
+        "surface": [["cloud", false, [
+            "./resource/cloud/cloud1.png",
+            "./resource/cloud/cloud2.png",
+            "./resource/cloud/cloud3.png"
+        ], 5]]
+    },
+    "objs": {
+        "CameraObject": [{
+            "name": "main_cam",
+            "tag": "camera",
+            "visible": true,
+            "position": [0, 160],
+            "rotation": 0,
+            "parent_name": "parent"
+        }],
+        "TileMap" : [{
+            "name": "map_dec",
+            "layer": 2,
+            "tag": "map",
+            "visible": true,
+            "position": [0, 0],
+            "rotation": 0,
+            "parent_name": "parent",
+            "tiles": [
+                [
+                    [null]
+                ],
+                [
+                    [null]
+                ],
+                [
+                    [null],
+                    [null],
+                    [null],
+                    [1,1,1,1,1,1,1,1,1,1,1,1,1],
+                    [0,0,0,0,0,0,0,0,0,0,0,0,0]
+                ],
+                [
+                    [null],
+                    [null],
+                    [null,null,2,2,2,2,2],
+                    [1,1,1,1,1,1,1,1,1,1,1,1,1],
+                    [0,0,0,0,0,0,0,0,0,0,0,0,0]
+                ]
+            ],
+            "sheet_name": "map"
+        }],
+        "Tree": [{
+            "name": "tree",
+            "layer": 3,
+            "tag": "tree",
+            "visible": true,
+            "position": [-300, 0],
+            "rotation": 0,
+            "parent_name": "parent"
+        }],
+        "Sky": [{
+            "pos":1
+        }],
+        "Text": [{
+            "name": "title",
+            "layer": 4,
+            "tag": "text",
+            "visible": true,
+            "position": [0, 200],
+            "rotation": 0,
+            "parent_name": "parent",
+            "size": 70,
+            "color": [255, 255, 255],
+            "Font": "./font/DungGeunMo.ttf",
+            "interval": 0
+        }],
+        "Panel": [{
+            "name": "panel",
+            "tag": "panel",
+            "visible": false,
+            "parent_name": "parent"
+        }],
+        "NameUI": [{
+            "name": "name_getter",
+            "layer": 6,
+            "tag": "ui",
+            "visible": true,
+            "position": [0, 0], 
+            "rotation": 0,
+            "parent_name": "panel"
+        }],
+        "WorldVoice": [{
+            "name": "story",
+            "layer": 8,
+            "tag": "world_creep",
+            "visible": false,
+            "position": [0, 0],
+            "rotation": 0,
+            "parent_name": "parent"
+        }]
+    }
+}

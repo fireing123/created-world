@@ -1,0 +1,55 @@
+class TileIndex:
+    COBBLE = 0
+    DIRT = 1
+    GRASS = 2
+    STONE = 3
+    STONE_BOTTOMLEFT = 4
+    DEC_GRASS = 5
+    DIRT_CENTER = 6
+    GRASS_CENTER_RIGHT = 7
+    GRASS_CENTER = 8
+    GRASS_CENTER_ALL = 9
+    DEEP_DIRT = 10
+    DIRT_DEEP_CRAFT = 11
+    DIRT_DEEP_POOL = 12
+    DEEP_DIRT_TOPRIGHT = 13
+    DEEP_DIRT_BOTTOMLEFT = 14
+    STONE_TOPLEFT = 15
+    STONE_BOTTOMRIGHT = 16
+    DEC_ROCKBACKGROUND = 17
+    DEC_DEEP_DARK_DIRT = 18
+    DEC_STONE_DEEP_DIRT = 19
+    DEC_BACKGROUND_BOTTOM = 20
+    GRASS_RIGHT = 21
+    BACKGROUND_UP = 22
+    STONE_DIRT_CREATE = 23
+    GRASS_LEFT = 24
+    BARRIER = 25
+
+is_grass_type = {
+    TileIndex.GRASS,
+    TileIndex.GRASS_CENTER,
+    TileIndex.GRASS_CENTER_ALL,
+    TileIndex.GRASS_CENTER_RIGHT,
+    TileIndex.GRASS_LEFT,
+    TileIndex.GRASS_RIGHT
+}
+
+is_stone_type = {
+    TileIndex.COBBLE,
+    TileIndex.STONE,
+    TileIndex.STONE_BOTTOMLEFT,
+    TileIndex.STONE_BOTTOMRIGHT,
+    TileIndex.STONE_DIRT_CREATE,
+    TileIndex.STONE_TOPLEFT
+}
+
+is_dirt_type = {
+    TileIndex.DIRT,
+    TileIndex.DIRT_CENTER,
+    TileIndex.DEEP_DIRT,
+    TileIndex.DEEP_DIRT_BOTTOMLEFT,
+    TileIndex.DEEP_DIRT_TOPRIGHT,
+    TileIndex.DIRT_DEEP_CRAFT,
+    TileIndex.DIRT_DEEP_POOL
+}
